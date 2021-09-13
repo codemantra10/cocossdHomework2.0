@@ -1,0 +1,32 @@
+
+#heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+background-color: lightblue;
+color: darkblue;
+font-family: cursive;
+}
+body{
+background-position: center;
+background-size:cover;
+}
+canvas{
+border:  5px dotted black;
+box-shadow: 10px 10px 384px blue;
+}
+#Status{
+background-color: black;
+color: cornsilk;
+box-shadow: 10px 10px 20px lightblue;
+}
+#objectdetected{
+    background-color: lightblue;
+    color: cornsilk;
+    box-shadow: 10px 10px 20px yellow;
+}
+#object{
+width: 100%;
+}
+
